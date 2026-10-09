@@ -234,4 +234,4 @@ This repository serves as the official landing page for Cover - Comic Reader. Th
 **Get the most recent version of Cover - Comic Reader today!**
 
 ---
-**Last updated:** 2026-10-09 08:41:29 UTC
+**Last updated:** 2026-10-09 15:57:18 UTC
